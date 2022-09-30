@@ -10,3 +10,4 @@
 
 
 [For Dark Mode Only](https://stackoverflow.com/a/62408715)
+[Jupyter Darkula Theme Inspired by IntelliJ Darcula theme](https://github.com/asvrvs/jupyter-darkula-theme/blob/master/custom.css)
