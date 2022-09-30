@@ -7,3 +7,6 @@
 * Copy file **darcula.less** to _/style_ director in installaiton folder of jupyter-themes.
 * run ```jt -t darcula -T -N -kl``` 
 * [RemoveLayout.md](./RemoveLayout.md)
+
+
+[For Dark Mode Only](https://stackoverflow.com/a/62408715)
